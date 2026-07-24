@@ -1,11 +1,9 @@
 # 🪐 Aether Core | Next-Gen Modular Discord Ecosystem
 
-<p align="center">
-  <img src="https://shields.io" alt="TypeScript" />
-  <img src="https://shields.io" alt="Discord.js" />
-  <img src="https://shields.io" alt="Node.js" />
-  <img src="https://shields.io" alt="Concept" />
-</p>
+> `Core Engine` • **TypeScript** `v5.0`
+> `Environment` • **Node.js** `v20.x`
+> `Framework` • **Discord.js** `v14.x`
+> `Aesthetic` • **Cyber-Pop / Kwangya** `🧬`
 
 ---
 
